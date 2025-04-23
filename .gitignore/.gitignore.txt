@@ -1,0 +1,14 @@
+# Ignore Spring Boot config files in both services
+asteroidalerting/src/main/resources/application.properties
+notificationservice/src/main/resources/application.properties
+
+# Ignore compiled files and build output
+**/target/
+*.class
+
+# Ignore IDE/editor files
+*.iml
+.idea/
+.vscode/
+.DS_Store
+*.log

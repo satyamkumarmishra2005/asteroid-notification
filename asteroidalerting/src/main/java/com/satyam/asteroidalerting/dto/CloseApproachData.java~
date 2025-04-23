@@ -1,0 +1,4 @@
+package com.satyam.asteroidalerting.dto;
+
+public class CloseApproachData {
+}
